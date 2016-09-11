@@ -1,0 +1,40 @@
+{
+  "name": "npm-indexofkey",
+  "version": "1.0.0",
+  "description": "Which receives array, (key, value) object pair and returns the index of that particular {key,value} pair in that array and also it is flexible enough to return first index , last index and multlple indexes in the form of array",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krishcdbry/npm-indexofkey.git"
+  },
+  "keywords": [
+    "array",
+    "index",
+    "object",
+    "index",
+    "object",
+    "key",
+    "indexofkey",
+    "findindex",
+    "getindex",
+    "object-index",
+    "array",
+    "index",
+    "object",
+    "index",
+    "indexbyproperty",
+    "arraypropertyindex",
+    "property",
+    "index",
+    "indexofproperty"
+  ],
+  "author": "KrishCdbry",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krishcdbry/npm-indexofkey/issues"
+  },
+  "homepage": "https://github.com/krishcdbry/npm-indexofkey#readme"
+}

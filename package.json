@@ -1,7 +1,7 @@
 {
   "name": "npm-indexofkey",
-  "version": "1.0.0",
-  "description": "Which receives array, (key, value) object pair and returns the index of that particular {key,value} pair in that array and also it is flexible enough to return first index , last index and multlple indexes in the form of array",
+  "version": "1.0.1",
+  "description": "Which receives array, (key, value) object pair and returns the index of that particular {key,value} pair in that array and also it is flexible enough to return the first index , last index and also an array of multilple indexes.",
   "main": "index.js",
   "scripts": {
     "test": "npm index.js"

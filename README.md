@@ -1,4 +1,4 @@
-# npm-indexofkey
+# npm-indexofkey [![NPM version](https://img.shields.io/npm/v/npm-indexofkey.svg)](https://www.npmjs.com/package/npm-indexofkey)
 Which receives array, (key, value) object pair and returns the index of that particular {key,value} pair in that array and also it is flexible enough to return the first index , last index and also an array of multiple indexes.
 
 ## Installation

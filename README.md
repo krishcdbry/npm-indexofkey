@@ -33,12 +33,12 @@ Receives the input array, (key, value) object pair and returns the last index of
   var indexOfkey = require('npm-indexofkey')
   var inputArray = [{"id":null,"number":7},{"isValid":false,"number":362},{"isValid":true,"count":126},{"isValid":false,"number":10}];
  
-  indexOfkey.getIndex(inputArray, {"isValid": false});
+  indexOfkey.getIndexLast(inputArray, {"isValid": false});
   // 3
   
 ```
 
-## getIndex(array, {key, value})
+## getAll(array, {key, value})
 
 Receives the input array, (key, value) object pair and returns the array of all indexes of that particular {key,value} pair.
 ```javascript
@@ -46,7 +46,7 @@ Receives the input array, (key, value) object pair and returns the array of all 
   var indexOfkey = require('npm-indexofkey')
   var inputArray = [{"id":null,"number":7},{"isValid":false,"number":362},{"isValid":true,"count":126},{"isValid":false,"number":10}];
  
-  indexOfkey.getIndex(inputArray, {"isValid": false});
+  indexOfkey.getAll(inputArray, {"isValid": false});
   // [1,3]
   
 ```
